@@ -5,7 +5,7 @@
 <h2>Project Content</h2>
 
 <ul>
-  <li>Home Page</li>
+  <li>Message Sending Area</li>
 </ul>
 
 <h2>Used Technologies</h2>
